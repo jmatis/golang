@@ -6,4 +6,4 @@ go build guessMyNumber.go
 
 docker build /guessMyNumber
 
-docker run -it <containerid>
+docker run -it &lt;containerid&gt;
