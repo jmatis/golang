@@ -4,6 +4,6 @@ go run guessMyNumber.go
 ### To make docker container:
 go build guessMyNumber.go
 
-docker build /guessMyNumber
+docker build /golang/guessMyNumber
 
 docker run -it &lt;containerid&gt;
